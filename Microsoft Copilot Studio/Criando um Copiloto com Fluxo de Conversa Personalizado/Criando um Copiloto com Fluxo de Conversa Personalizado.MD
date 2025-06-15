@@ -1,5 +1,4 @@
 ---
-superior: "[[Bootcamp Suzano/Suzano Python Developer|Suzano Python Developer]]"
 ---
 # Apresentação do Desafio
 
