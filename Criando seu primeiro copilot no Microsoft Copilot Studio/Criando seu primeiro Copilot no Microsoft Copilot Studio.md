@@ -18,8 +18,7 @@ Vá ao Copilot Studio
 
 Escolha o Viagem Seguras (Safe Travels)
 
-![[Anexos (Imagens,Referencias e etc)/Pasted image 20250615004256.png]]
-![[Anexos (Imagens,Referencias e etc)/Pasted image 20250615005024.png]]
+"Imagens na máquina local do arquivo"
 
 Dentro dele você define:
 
@@ -34,29 +33,29 @@ Após isto você cria o agente e o testa.
 
 Na página principal, você pode descrever como quer criar o copilot:
 
-![[Anexos (Imagens,Referencias e etc)/Pasted image 20250615005801.png]]
+"Imagens na máquina local do arquivo"
 
 Após isso ele irá te mandar a uma tela para que você especifique o que deseja:
 
-![[Anexos (Imagens,Referencias e etc)/Pasted image 20250615010023.png]]
+"Imagens na máquina local do arquivo"
 
 Após realizar as configurações, basta clicar em criar.
 
-![[Anexos (Imagens,Referencias e etc)/Pasted image 20250615010211.png]]
+"Imagens na máquina local do arquivo"
 
 Por fim, realize o teste.
 # Criar um Copilot em branco
 
 Vá em criar -> Novo Agente -> Ignorar para configurar:
 
-![[Anexos (Imagens,Referencias e etc)/Pasted image 20250615010406.png]]
+"Imagens na máquina local do arquivo"
 
 
 Ao clicar nos três pontos ,você ir em **Editar Configurações Avanças** e selecionar outras bases já criadas anteriormente.
 
 Após cria-lo, você pode testar, editar e orientar as diretrizes de como quer que ele funcione pelo menu na barra horizontal superior:
 
-![[Anexos (Imagens,Referencias e etc)/Pasted image 20250615010933.png]]
+"Imagens na máquina local do arquivo"
 
 
 # Entendendo o desafio
@@ -81,4 +80,4 @@ O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Stu
 
 Bons estudos 😉
 
-Este arquivo makerdown foi criado no Obsidian para a finalidade da atividade.
+Este arquivo makerdown foi criado no Obsidian para a finalidade da atividade,em sua versão do Github as imagens não foram anexadas.
