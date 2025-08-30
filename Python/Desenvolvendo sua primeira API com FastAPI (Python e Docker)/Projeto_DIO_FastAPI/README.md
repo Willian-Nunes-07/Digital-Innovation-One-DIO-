@@ -13,7 +13,7 @@ Esta é uma API de competição de crossfit chamada WorkoutAPI (isso mesmo rs, e
 
 ## Modelagem de entidade e relacionamento - MER
 
-![[/mer.jpg]]
+![[mer.jpg]]
 ## Stack da API
 
 A API foi desenvolvida utilizando o `fastapi` (async), junto das seguintes libs: `alembic`, `SQLAlchemy`, `pydantic`. Para salvar os dados está sendo utilizando o `postgres`, por meio do `docker`.
